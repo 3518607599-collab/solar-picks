@@ -1,0 +1,23 @@
+---
+layout: base.njk
+title: "SolarPicks - Best Portable Solar & Off-Grid Power Guides 2026"
+description: "Expert reviews and buying guides for portable solar panels, solar generators, power stations, and off-grid power solutions. Find the best products for camping, RV, home backup, and emergency preparedness."
+keywords: "portable solar panel, solar generator, off-grid power, best power station, Jackery review, EcoFlow review, Bluetti review"
+---
+
+<div class="hero">
+  <h1>☀️ Find the Best Portable Power for Any Adventure</h1>
+  <p>Expert-tested reviews and honest buying guides for solar generators, portable panels, and off-grid power solutions.</p>
+</div>
+
+<h2>Latest Guides</h2>
+
+{%- for post in collections.posts | reverse %}
+<div class="post-card">
+  <a href="{{ post.url }}">
+    <h3>{{ post.data.title }}</h3>
+    <p>{{ post.data.description }}</p>
+    <time>{{ post.date | date('MMMM D, YYYY') }}</time>
+  </a>
+</div>
+{%- endfor %}
