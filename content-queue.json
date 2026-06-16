@@ -4,36 +4,290 @@
   "site_url": "https://solarpicks.net",
   "affiliate_disclosure": "As an Amazon Associate, we earn from qualifying purchases.",
   "content_dir": "C:/Users/zard/solar-picks/src/posts",
-  "published": ["best-solar-generator-for-tailgating"],
+  "published": [
+    "best-solar-generator-for-tailgating",
+    "ecoflow-delta-2-max-review"
+  ],
   "queue": [
-    {"slug": "ecoflow-delta-2-max-review", "title": "EcoFlow DELTA 2 Max Review 2026: The Best All-Around Solar Generator?", "keywords": "EcoFlow DELTA 2 Max review, DELTA 2 Max specs, is EcoFlow DELTA 2 Max worth it", "category": "solar-generators", "tags": ["solar-generators", "reviews"]},
-    {"slug": "jackery-explorer-2000-plus-review", "title": "Jackery Explorer 2000 Plus Review 2026: Reliable Power for Any Situation", "keywords": "Jackery Explorer 2000 Plus review, Jackery 2000 Plus specs, Jackery 2000 Plus worth buying", "category": "solar-generators", "tags": ["solar-generators", "reviews"]},
-    {"slug": "bluetti-ac200max-review", "title": "Bluetti AC200MAX Review 2026: Best Expandable Solar Generator", "keywords": "Bluetti AC200MAX review, AC200MAX specs, Bluetti AC200MAX worth it", "category": "solar-generators", "tags": ["solar-generators", "reviews"]},
-    {"slug": "solar-generator-vs-gas-generator", "title": "Solar Generator vs Gas Generator: Which Should You Buy in 2026?", "keywords": "solar generator vs gas generator, solar vs gas power, portable solar or gas generator", "category": "solar-generators", "tags": ["solar-generators", "comparisons"]},
-    {"slug": "best-solar-panels-for-home-roof", "title": "Best Solar Panels for Home Roof 2026: Complete Buyer's Guide", "keywords": "best solar panels for home, home solar panel review, rooftop solar panels 2026", "category": "solar-panels", "tags": ["solar-panels", "home"]},
-    {"slug": "how-to-build-diy-solar-generator", "title": "How to Build a DIY Solar Generator: Step-by-Step Guide (2026)", "keywords": "DIY solar generator, build your own solar generator, homemade solar power station", "category": "guides", "tags": ["solar-generators", "diy"]},
-    {"slug": "best-solar-generator-for-van-life", "title": "Best Solar Generator for Van Life 2026: Power Your Home on Wheels", "keywords": "solar generator van life, best power station for van, off-grid van power", "category": "solar-generators", "tags": ["solar-generators", "van-life"]},
-    {"slug": "best-solar-generator-for-power-outage", "title": "Best Solar Generator for Power Outages 2026: Never Be in the Dark", "keywords": "solar generator power outage, backup power for blackouts, best emergency power station", "category": "solar-generators", "tags": ["solar-generators", "emergency"]},
-    {"slug": "jackery-solar-saga-200w-review", "title": "Jackery SolarSaga 200W Review 2026: The Best Portable Solar Panel?", "keywords": "Jackery SolarSaga 200W review, SolarSaga 200W specs, best Jackery solar panel", "category": "solar-panels", "tags": ["solar-panels", "reviews"]},
-    {"slug": "ecoflow-220w-bifacial-solar-panel-review", "title": "EcoFlow 220W Bifacial Solar Panel Review: Worth the Hype?", "keywords": "EcoFlow 220W bifacial review, bifacial solar panel, EcoFlow solar panel worth it", "category": "solar-panels", "tags": ["solar-panels", "reviews"]},
-    {"slug": "best-portable-power-station-for-construction", "title": "Best Portable Power Station for Construction Sites 2026", "keywords": "power station construction site, portable power for job site, best power station for contractors", "category": "power-stations", "tags": ["power-stations", "construction"]},
-    {"slug": "solar-generator-sizing-guide", "title": "Solar Generator Sizing Guide: How Big Do You Really Need?", "keywords": "solar generator sizing, what size solar generator, how many watts do I need", "category": "guides", "tags": ["solar-generators", "guides"]},
-    {"slug": "best-solar-generator-for-cold-weather", "title": "Best Solar Generator for Cold Weather 2026: Winter-Tested Picks", "keywords": "solar generator cold weather, winter solar power, solar generator freezing temperatures", "category": "solar-generators", "tags": ["solar-generators", "winter"]},
-    {"slug": "solar-generator-charging-guide", "title": "How to Charge a Solar Generator: Every Method Explained (2026)", "keywords": "how to charge solar generator, solar generator charging methods, charge power station with car", "category": "guides", "tags": ["solar-generators", "guides"]},
-    {"slug": "best-solar-generator-for-medical-devices", "title": "Best Solar Generator for Medical Devices 2026: Reliable Backup Power", "keywords": "solar generator medical devices, CPAP solar power, power station for medical equipment", "category": "solar-generators", "tags": ["solar-generators", "medical"]},
-    {"slug": "best-solar-generator-for-overlanding", "title": "Best Solar Generator for Overlanding 2026: Off-Grid Adventure Power", "keywords": "solar generator overlanding, off-road power station, overland solar setup", "category": "solar-generators", "tags": ["solar-generators", "overlanding"]},
-    {"slug": "anker-solix-c1000-review", "title": "Anker SOLIX C1000 Review 2026: Best Value Solar Generator?", "keywords": "Anker SOLIX C1000 review, Anker C1000 specs, Anker power station worth it", "category": "solar-generators", "tags": ["solar-generators", "reviews"]},
-    {"slug": "best-solar-generator-for-food-trucks", "title": "Best Solar Generator for Food Trucks 2026: Silent Power for Your Business", "keywords": "solar generator food truck, food truck power station, silent generator food truck", "category": "solar-generators", "tags": ["solar-generators", "food-trucks"]},
-    {"slug": "portable-solar-panel-vs-rooftop", "title": "Portable Solar Panel vs Rooftop: Which is Better for Your Needs?", "keywords": "portable vs rooftop solar, portable solar or fixed solar, which solar panel to buy", "category": "solar-panels", "tags": ["solar-panels", "comparisons"]},
-    {"slug": "best-solar-generator-for-photography", "title": "Best Solar Generator for Outdoor Photography & Videography 2026", "keywords": "solar generator photography, power station for camera, outdoor photography power", "category": "solar-generators", "tags": ["solar-generators", "photography"]},
-    {"slug": "how-to-connect-solar-panels-to-generator", "title": "How to Connect Solar Panels to a Solar Generator: Complete Guide", "keywords": "connect solar panels to generator, solar panel wiring, solar generator panel compatibility", "category": "guides", "tags": ["solar-generators", "guides"]},
-    {"slug": "best-solar-generator-for-hunting-cabin", "title": "Best Solar Generator for a Hunting Cabin 2026: Off-Grid Comfort", "keywords": "solar generator hunting cabin, off-grid cabin power, cabin solar generator setup", "category": "solar-generators", "tags": ["solar-generators", "cabin"]},
-    {"slug": "solar-generator-vs-power-bank", "title": "Solar Generator vs Power Bank: What's the Difference and Which Do You Need?", "keywords": "solar generator vs power bank, portable power comparison, power station or power bank", "category": "comparisons", "tags": ["power-stations", "comparisons"]},
-    {"slug": "best-solar-generator-for-boating", "title": "Best Solar Generator for Boating & Marine Use 2026", "keywords": "solar generator boat, marine power station, boat solar power system", "category": "solar-generators", "tags": ["solar-generators", "marine"]},
-    {"slug": "goal-zero-yeti-1500x-review", "title": "Goal Zero Yeti 1500X Review 2026: Premium Portable Power", "keywords": "Goal Zero Yeti 1500X review, Yeti 1500X specs, Goal Zero power station worth it", "category": "solar-generators", "tags": ["solar-generators", "reviews"]},
-    {"slug": "best-solar-generator-for-hurricane-season", "title": "Best Solar Generator for Hurricane Season 2026: Be Prepared", "keywords": "solar generator hurricane, hurricane backup power, best power station for storms", "category": "solar-generators", "tags": ["solar-generators", "emergency"]},
-    {"slug": "solar-generator-wattage-explained", "title": "Solar Generator Wattage Explained: Watts vs Watt-Hours vs Amp-Hours", "keywords": "solar generator wattage, watts vs watt hours, understanding solar generator specs", "category": "guides", "tags": ["solar-generators", "guides"]},
-    {"slug": "best-solar-generator-for-youtubers", "title": "Best Solar Generator for YouTubers & Content Creators 2026", "keywords": "solar generator content creation, power station for filming, outdoor video power", "category": "solar-generators", "tags": ["solar-generators", "content-creation"]},
-    {"slug": "best-solar-generator-for-working-remotely", "title": "Best Solar Generator for Working Remotely Outdoors 2026", "keywords": "solar generator remote work, outdoor work power station, work from anywhere power", "category": "solar-generators", "tags": ["solar-generators", "remote-work"]}
+    {
+      "slug": "jackery-explorer-2000-plus-review",
+      "title": "Jackery Explorer 2000 Plus Review 2026: Reliable Power for Any Situation",
+      "keywords": "Jackery Explorer 2000 Plus review, Jackery 2000 Plus specs, Jackery 2000 Plus worth buying",
+      "category": "solar-generators",
+      "tags": [
+        "solar-generators",
+        "reviews"
+      ]
+    },
+    {
+      "slug": "bluetti-ac200max-review",
+      "title": "Bluetti AC200MAX Review 2026: Best Expandable Solar Generator",
+      "keywords": "Bluetti AC200MAX review, AC200MAX specs, Bluetti AC200MAX worth it",
+      "category": "solar-generators",
+      "tags": [
+        "solar-generators",
+        "reviews"
+      ]
+    },
+    {
+      "slug": "solar-generator-vs-gas-generator",
+      "title": "Solar Generator vs Gas Generator: Which Should You Buy in 2026?",
+      "keywords": "solar generator vs gas generator, solar vs gas power, portable solar or gas generator",
+      "category": "solar-generators",
+      "tags": [
+        "solar-generators",
+        "comparisons"
+      ]
+    },
+    {
+      "slug": "best-solar-panels-for-home-roof",
+      "title": "Best Solar Panels for Home Roof 2026: Complete Buyer's Guide",
+      "keywords": "best solar panels for home, home solar panel review, rooftop solar panels 2026",
+      "category": "solar-panels",
+      "tags": [
+        "solar-panels",
+        "home"
+      ]
+    },
+    {
+      "slug": "how-to-build-diy-solar-generator",
+      "title": "How to Build a DIY Solar Generator: Step-by-Step Guide (2026)",
+      "keywords": "DIY solar generator, build your own solar generator, homemade solar power station",
+      "category": "guides",
+      "tags": [
+        "solar-generators",
+        "diy"
+      ]
+    },
+    {
+      "slug": "best-solar-generator-for-van-life",
+      "title": "Best Solar Generator for Van Life 2026: Power Your Home on Wheels",
+      "keywords": "solar generator van life, best power station for van, off-grid van power",
+      "category": "solar-generators",
+      "tags": [
+        "solar-generators",
+        "van-life"
+      ]
+    },
+    {
+      "slug": "best-solar-generator-for-power-outage",
+      "title": "Best Solar Generator for Power Outages 2026: Never Be in the Dark",
+      "keywords": "solar generator power outage, backup power for blackouts, best emergency power station",
+      "category": "solar-generators",
+      "tags": [
+        "solar-generators",
+        "emergency"
+      ]
+    },
+    {
+      "slug": "jackery-solar-saga-200w-review",
+      "title": "Jackery SolarSaga 200W Review 2026: The Best Portable Solar Panel?",
+      "keywords": "Jackery SolarSaga 200W review, SolarSaga 200W specs, best Jackery solar panel",
+      "category": "solar-panels",
+      "tags": [
+        "solar-panels",
+        "reviews"
+      ]
+    },
+    {
+      "slug": "ecoflow-220w-bifacial-solar-panel-review",
+      "title": "EcoFlow 220W Bifacial Solar Panel Review: Worth the Hype?",
+      "keywords": "EcoFlow 220W bifacial review, bifacial solar panel, EcoFlow solar panel worth it",
+      "category": "solar-panels",
+      "tags": [
+        "solar-panels",
+        "reviews"
+      ]
+    },
+    {
+      "slug": "best-portable-power-station-for-construction",
+      "title": "Best Portable Power Station for Construction Sites 2026",
+      "keywords": "power station construction site, portable power for job site, best power station for contractors",
+      "category": "power-stations",
+      "tags": [
+        "power-stations",
+        "construction"
+      ]
+    },
+    {
+      "slug": "solar-generator-sizing-guide",
+      "title": "Solar Generator Sizing Guide: How Big Do You Really Need?",
+      "keywords": "solar generator sizing, what size solar generator, how many watts do I need",
+      "category": "guides",
+      "tags": [
+        "solar-generators",
+        "guides"
+      ]
+    },
+    {
+      "slug": "best-solar-generator-for-cold-weather",
+      "title": "Best Solar Generator for Cold Weather 2026: Winter-Tested Picks",
+      "keywords": "solar generator cold weather, winter solar power, solar generator freezing temperatures",
+      "category": "solar-generators",
+      "tags": [
+        "solar-generators",
+        "winter"
+      ]
+    },
+    {
+      "slug": "solar-generator-charging-guide",
+      "title": "How to Charge a Solar Generator: Every Method Explained (2026)",
+      "keywords": "how to charge solar generator, solar generator charging methods, charge power station with car",
+      "category": "guides",
+      "tags": [
+        "solar-generators",
+        "guides"
+      ]
+    },
+    {
+      "slug": "best-solar-generator-for-medical-devices",
+      "title": "Best Solar Generator for Medical Devices 2026: Reliable Backup Power",
+      "keywords": "solar generator medical devices, CPAP solar power, power station for medical equipment",
+      "category": "solar-generators",
+      "tags": [
+        "solar-generators",
+        "medical"
+      ]
+    },
+    {
+      "slug": "best-solar-generator-for-overlanding",
+      "title": "Best Solar Generator for Overlanding 2026: Off-Grid Adventure Power",
+      "keywords": "solar generator overlanding, off-road power station, overland solar setup",
+      "category": "solar-generators",
+      "tags": [
+        "solar-generators",
+        "overlanding"
+      ]
+    },
+    {
+      "slug": "anker-solix-c1000-review",
+      "title": "Anker SOLIX C1000 Review 2026: Best Value Solar Generator?",
+      "keywords": "Anker SOLIX C1000 review, Anker C1000 specs, Anker power station worth it",
+      "category": "solar-generators",
+      "tags": [
+        "solar-generators",
+        "reviews"
+      ]
+    },
+    {
+      "slug": "best-solar-generator-for-food-trucks",
+      "title": "Best Solar Generator for Food Trucks 2026: Silent Power for Your Business",
+      "keywords": "solar generator food truck, food truck power station, silent generator food truck",
+      "category": "solar-generators",
+      "tags": [
+        "solar-generators",
+        "food-trucks"
+      ]
+    },
+    {
+      "slug": "portable-solar-panel-vs-rooftop",
+      "title": "Portable Solar Panel vs Rooftop: Which is Better for Your Needs?",
+      "keywords": "portable vs rooftop solar, portable solar or fixed solar, which solar panel to buy",
+      "category": "solar-panels",
+      "tags": [
+        "solar-panels",
+        "comparisons"
+      ]
+    },
+    {
+      "slug": "best-solar-generator-for-photography",
+      "title": "Best Solar Generator for Outdoor Photography & Videography 2026",
+      "keywords": "solar generator photography, power station for camera, outdoor photography power",
+      "category": "solar-generators",
+      "tags": [
+        "solar-generators",
+        "photography"
+      ]
+    },
+    {
+      "slug": "how-to-connect-solar-panels-to-generator",
+      "title": "How to Connect Solar Panels to a Solar Generator: Complete Guide",
+      "keywords": "connect solar panels to generator, solar panel wiring, solar generator panel compatibility",
+      "category": "guides",
+      "tags": [
+        "solar-generators",
+        "guides"
+      ]
+    },
+    {
+      "slug": "best-solar-generator-for-hunting-cabin",
+      "title": "Best Solar Generator for a Hunting Cabin 2026: Off-Grid Comfort",
+      "keywords": "solar generator hunting cabin, off-grid cabin power, cabin solar generator setup",
+      "category": "solar-generators",
+      "tags": [
+        "solar-generators",
+        "cabin"
+      ]
+    },
+    {
+      "slug": "solar-generator-vs-power-bank",
+      "title": "Solar Generator vs Power Bank: What's the Difference and Which Do You Need?",
+      "keywords": "solar generator vs power bank, portable power comparison, power station or power bank",
+      "category": "comparisons",
+      "tags": [
+        "power-stations",
+        "comparisons"
+      ]
+    },
+    {
+      "slug": "best-solar-generator-for-boating",
+      "title": "Best Solar Generator for Boating & Marine Use 2026",
+      "keywords": "solar generator boat, marine power station, boat solar power system",
+      "category": "solar-generators",
+      "tags": [
+        "solar-generators",
+        "marine"
+      ]
+    },
+    {
+      "slug": "goal-zero-yeti-1500x-review",
+      "title": "Goal Zero Yeti 1500X Review 2026: Premium Portable Power",
+      "keywords": "Goal Zero Yeti 1500X review, Yeti 1500X specs, Goal Zero power station worth it",
+      "category": "solar-generators",
+      "tags": [
+        "solar-generators",
+        "reviews"
+      ]
+    },
+    {
+      "slug": "best-solar-generator-for-hurricane-season",
+      "title": "Best Solar Generator for Hurricane Season 2026: Be Prepared",
+      "keywords": "solar generator hurricane, hurricane backup power, best power station for storms",
+      "category": "solar-generators",
+      "tags": [
+        "solar-generators",
+        "emergency"
+      ]
+    },
+    {
+      "slug": "solar-generator-wattage-explained",
+      "title": "Solar Generator Wattage Explained: Watts vs Watt-Hours vs Amp-Hours",
+      "keywords": "solar generator wattage, watts vs watt hours, understanding solar generator specs",
+      "category": "guides",
+      "tags": [
+        "solar-generators",
+        "guides"
+      ]
+    },
+    {
+      "slug": "best-solar-generator-for-youtubers",
+      "title": "Best Solar Generator for YouTubers & Content Creators 2026",
+      "keywords": "solar generator content creation, power station for filming, outdoor video power",
+      "category": "solar-generators",
+      "tags": [
+        "solar-generators",
+        "content-creation"
+      ]
+    },
+    {
+      "slug": "best-solar-generator-for-working-remotely",
+      "title": "Best Solar Generator for Working Remotely Outdoors 2026",
+      "keywords": "solar generator remote work, outdoor work power station, work from anywhere power",
+      "category": "solar-generators",
+      "tags": [
+        "solar-generators",
+        "remote-work"
+      ]
+    }
   ]
 }
