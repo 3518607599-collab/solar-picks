@@ -91,4 +91,17 @@ Solar generators are objectively better for most emergency situations. The only 
 
 The **Jackery Explorer 3000 Pro** is the best solar generator for emergency preparedness. Its long shelf life, massive capacity, and proven reliability make it the generator you want sitting in your closet when the power goes out.
 
+
+---
+
+## Ready to Go Solar?
+
+👉 **[Browse Top Solar Generators on Amazon](https://www.amazon.com/s?k=portable+solar+generator&tag=solarpicks0b2-20)**
+
+👉 **[Browse Top Solar Panels on Amazon](https://www.amazon.com/s?k=portable+solar+panel&tag=solarpicks0b2-20)**
+
+👉 **[Browse Top Power Stations on Amazon](https://www.amazon.com/s?k=portable+power+station&tag=solarpicks0b2-20)**
+
+*As an Amazon Associate, we earn from qualifying purchases.*
+
 *As an Amazon Associate, we earn from qualifying purchases.*

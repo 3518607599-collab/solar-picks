@@ -100,4 +100,17 @@ Now that you understand how solar generators work, check out our other guides:
 - Best Portable Solar Panels for Camping
 - Jackery vs EcoFlow vs Bluetti
 
+
+---
+
+## Ready to Go Solar?
+
+👉 **[Browse Top Solar Generators on Amazon](https://www.amazon.com/s?k=portable+solar+generator&tag=solarpicks0b2-20)**
+
+👉 **[Browse Top Solar Panels on Amazon](https://www.amazon.com/s?k=portable+solar+panel&tag=solarpicks0b2-20)**
+
+👉 **[Browse Top Power Stations on Amazon](https://www.amazon.com/s?k=portable+power+station&tag=solarpicks0b2-20)**
+
+*As an Amazon Associate, we earn from qualifying purchases.*
+
 *As an Amazon Associate, we earn from qualifying purchases.*

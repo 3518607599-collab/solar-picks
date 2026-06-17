@@ -93,4 +93,17 @@ Treat your solar generator well, and it'll treat you well for over a decade. The
 
 That's it. Now go enjoy your free electricity from the sun.
 
+
+---
+
+## Ready to Go Solar?
+
+👉 **[Browse Top Solar Generators on Amazon](https://www.amazon.com/s?k=portable+solar+generator&tag=solarpicks0b2-20)**
+
+👉 **[Browse Top Solar Panels on Amazon](https://www.amazon.com/s?k=portable+solar+panel&tag=solarpicks0b2-20)**
+
+👉 **[Browse Top Power Stations on Amazon](https://www.amazon.com/s?k=portable+power+station&tag=solarpicks0b2-20)**
+
+*As an Amazon Associate, we earn from qualifying purchases.*
+
 *As an Amazon Associate, we earn from qualifying purchases.*

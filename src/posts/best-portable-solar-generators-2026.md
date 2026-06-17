@@ -142,3 +142,15 @@ For most people, the **EcoFlow DELTA 2 Max** is the best portable solar generato
 For extended off-grid living or serious home backup, step up to the **Jackery Explorer 2000 Plus** or **Bluetti AC200MAX** with expansion batteries.
 
 *Prices and availability are subject to change. We'll update this guide monthly to reflect current pricing and new product releases.*
+
+---
+
+## Ready to Go Solar?
+
+👉 **[Browse Top Solar Generators on Amazon](https://www.amazon.com/s?k=portable+solar+generator&tag=solarpicks0b2-20)**
+
+👉 **[Browse Top Solar Panels on Amazon](https://www.amazon.com/s?k=portable+solar+panel&tag=solarpicks0b2-20)**
+
+👉 **[Browse Top Power Stations on Amazon](https://www.amazon.com/s?k=portable+power+station&tag=solarpicks0b2-20)**
+
+*As an Amazon Associate, we earn from qualifying purchases.*

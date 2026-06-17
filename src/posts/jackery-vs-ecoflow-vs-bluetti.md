@@ -96,4 +96,17 @@ For most people in 2026, **EcoFlow** wins overall. Their combination of fast cha
 
 But honestly, you can't go wrong with any of these three brands. They're all significantly better than the dozens of no-name alternatives flooding Amazon.
 
+
+---
+
+## Ready to Go Solar?
+
+👉 **[Browse Top Solar Generators on Amazon](https://www.amazon.com/s?k=portable+solar+generator&tag=solarpicks0b2-20)**
+
+👉 **[Browse Top Solar Panels on Amazon](https://www.amazon.com/s?k=portable+solar+panel&tag=solarpicks0b2-20)**
+
+👉 **[Browse Top Power Stations on Amazon](https://www.amazon.com/s?k=portable+power+station&tag=solarpicks0b2-20)**
+
+*As an Amazon Associate, we earn from qualifying purchases.*
+
 *As an Amazon Associate, we earn from qualifying purchases.*

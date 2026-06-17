@@ -78,4 +78,17 @@ The Eclipse 200W is designed specifically for RV and van life. The integrated mo
 
 For most campers, the **Jackery SolarSaga 200W** paired with a Jackery power station is the simplest, most reliable solar setup you can buy. If you camp in cloudy or forested areas, the **EcoFlow 220W Bifacial** will outperform everything else.
 
+
+---
+
+## Ready to Go Solar?
+
+👉 **[Browse Top Solar Generators on Amazon](https://www.amazon.com/s?k=portable+solar+generator&tag=solarpicks0b2-20)**
+
+👉 **[Browse Top Solar Panels on Amazon](https://www.amazon.com/s?k=portable+solar+panel&tag=solarpicks0b2-20)**
+
+👉 **[Browse Top Power Stations on Amazon](https://www.amazon.com/s?k=portable+power+station&tag=solarpicks0b2-20)**
+
+*As an Amazon Associate, we earn from qualifying purchases.*
+
 *As an Amazon Associate, we earn from qualifying purchases.*

@@ -80,4 +80,17 @@ That's enough to charge a phone 50+ times, run a mini-fridge for 8 hours, or pow
 
 The **EcoFlow RIVER 2 Max** at $349 is the best value in portable power stations under $500. It offers the best combination of capacity, output, and features. If you want the longest-lasting battery, the **Jackery Explorer 500 Plus** with its 4,000-cycle LiFePO4 battery is worth the extra $50.
 
+
+---
+
+## Ready to Go Solar?
+
+👉 **[Browse Top Solar Generators on Amazon](https://www.amazon.com/s?k=portable+solar+generator&tag=solarpicks0b2-20)**
+
+👉 **[Browse Top Solar Panels on Amazon](https://www.amazon.com/s?k=portable+solar+panel&tag=solarpicks0b2-20)**
+
+👉 **[Browse Top Power Stations on Amazon](https://www.amazon.com/s?k=portable+power+station&tag=solarpicks0b2-20)**
+
+*As an Amazon Associate, we earn from qualifying purchases.*
+
 *As an Amazon Associate, we earn from qualifying purchases.*

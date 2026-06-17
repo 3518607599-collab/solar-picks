@@ -87,4 +87,17 @@ Every solar generator needs a panel to recharge in the field:
 
 For most campers, the **EcoFlow RIVER 2 Max** is the perfect camping solar generator. It's light enough to carry, powerful enough for a mini fridge, and recharges in just 3 hours with a solar panel. Pair it with an EcoFlow 220W bifacial panel and you'll never run out of power.
 
+
+---
+
+## Ready to Go Solar?
+
+👉 **[Browse Top Solar Generators on Amazon](https://www.amazon.com/s?k=portable+solar+generator&tag=solarpicks0b2-20)**
+
+👉 **[Browse Top Solar Panels on Amazon](https://www.amazon.com/s?k=portable+solar+panel&tag=solarpicks0b2-20)**
+
+👉 **[Browse Top Power Stations on Amazon](https://www.amazon.com/s?k=portable+power+station&tag=solarpicks0b2-20)**
+
+*As an Amazon Associate, we earn from qualifying purchases.*
+
 *As an Amazon Associate, we earn from qualifying purchases.*
