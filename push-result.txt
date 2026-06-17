@@ -1,0 +1,9 @@
+﻿git : remote: Invalid username or token. Password authentication is not supported for Git operations.
+所在位置 C:\Users\zard\solar-picks\task-push.ps1:9 字符: 11
++ $output = git push -u origin main 2>&1
++           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (remote: Invalid...Git operations.:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+fatal: Authentication failed for 'https://github.com/3518607599-collab/solar-picks.git/'
+FAILED 06/17/2026 16:29:51: remote: Invalid username or token. Password authentication is not supported for Git operations. fatal: Authentication failed for 'https://github.com/3518607599-collab/solar-picks.git/'
